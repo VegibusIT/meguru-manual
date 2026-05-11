@@ -1,0 +1,4 @@
+--- ssh tunnel status ---
+tunnel UP localhost:13307 -> RDS
+--- docker status ---
+meguru_db_1 Up 11 minutes 0.0.0.0:5432->5432/tcp, [::]:5432->5432/tcp
