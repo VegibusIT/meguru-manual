@@ -1,0 +1,63 @@
+site_name: MEGURU 操作マニュアル
+site_description: やさいバス向け MEGURU 操作マニュアル
+site_url: https://vegibusit.github.io/meguru-manual/
+docs_dir: .
+site_dir: _site
+
+theme:
+  name: material
+  language: ja
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: ダークモードに切替
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: ライトモードに切替
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.integrate
+
+nav:
+  - はじめに: README.md
+  - 1. MEGURUってどんなサービス？: 01_meguru_to_wa.md
+  - 2. 5分でやってみよう: 02_yatte_miyou.md
+  - 3. できること一覧: 03_dekiru_koto.md
+  - 4. 全パターン操作練習: 04_zenpattern.md
+  - 5. 困ったとき・FAQ: 05_komatta.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+exclude_docs: |
+  .github/
+  mkdocs.yml
+  _site/
