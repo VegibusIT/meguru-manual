@@ -1,6 +1,6 @@
 # 05. 困ったとき・よくある質問
 
-📖 [目次](README.md) ｜ 前：[04](04_zenpattern.md)
+📖 [目次](index.md) ｜ 前：[04](04_zenpattern.md)
 
 ---
 
@@ -176,4 +176,4 @@
 
 ---
 
-📖 [目次に戻る](README.md)
+📖 [目次に戻る](index.md)

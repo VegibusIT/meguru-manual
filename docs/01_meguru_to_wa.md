@@ -1,6 +1,6 @@
 # 01. MEGURU ってどんなサービス？
 
-📖 [目次に戻る](README.md) ｜ 次：[02. 5 分でやってみよう](02_yatte_miyou.md)
+📖 [目次に戻る](index.md) ｜ 次：[02. 5 分でやってみよう](02_yatte_miyou.md)
 
 ---
 

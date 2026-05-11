@@ -1,6 +1,6 @@
 # 03. できること一覧
 
-📖 [目次](README.md) ｜ 前：[02](02_yatte_miyou.md) ｜ 次：[04](04_zenpattern.md)
+📖 [目次](index.md) ｜ 前：[02](02_yatte_miyou.md) ｜ 次：[04](04_zenpattern.md)
 
 このページは **お客様への営業トークで使えるネタ集** です。「MEGURU でこんなことができますよ」と即答するためのカタログ。
 

@@ -1,6 +1,6 @@
 # 02. 5 分でやってみよう
 
-📖 [目次](README.md) ｜ 前：[01](01_meguru_to_wa.md) ｜ 次：[03](03_dekiru_koto.md)
+📖 [目次](index.md) ｜ 前：[01](01_meguru_to_wa.md) ｜ 次：[03](03_dekiru_koto.md)
 
 ---
 
